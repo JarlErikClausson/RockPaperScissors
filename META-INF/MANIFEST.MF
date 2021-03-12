@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: de.krage.rockpaperscissors.Main
+Class-Path: de.krage.rockpaperscissors.Main
+
